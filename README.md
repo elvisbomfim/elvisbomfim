@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Elvis Bomfim
 
-💻 Full Stack Engineer | DevOps Enthusiast | Software Architect  
+💻 Full Stack Engineer | DevOps Enthusiast
 
 🔹 Passionate about building scalable solutions and optimizing system performance.  
 🔹 Experienced with PHP (Laravel, Symfony, CodeIgniter), JavaScript (Vue.js, React.js, Node.js), and DevOps tools (Azure DevOps, AWS, Docker, CI/CD).  
